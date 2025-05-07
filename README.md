@@ -14,8 +14,8 @@ Sigue estos pasos para configurar el entorno y ejecutar el proyecto:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_DIRECTORIO>
+   git clone https://github.com/charlyrosero/demogreatexpectations.git
+   cd demogreatexpectations
 
 2. **Crear un ambiente virtual**:
    ```bash
