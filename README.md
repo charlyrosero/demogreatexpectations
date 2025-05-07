@@ -30,10 +30,10 @@ Sigue estos pasos para configurar el entorno y ejecutar el proyecto:
     pip install -r requirements.txt
 
 ## Uso
-1. Abre una terminal y navega al directorio GreatExpectations/. 
+1. Abre una terminal y navega al directorio demogreatexpectations/. 
 2. Inicia Jupyter Notebook para ejecutar los notebooks desde el navegador:
 
     ```bash
-    jupyter notebooks
+    jupyter notebook
 
 3. Abre el archivo **BasicDemostrationGE.ipynb** y ejecuta las celdas para realizar las validaciones de calidad de datos.
