@@ -1,1 +1,11 @@
-.venv
+.venv/
+notebooks/.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.csv
+*.tsv       
